@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://bargigsoftwar.github.io/iAgent/sitemap.xml
+Sitemap: https://bargigsoftware.github.io/iAgent/sitemap.xml
